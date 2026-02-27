@@ -13,13 +13,13 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
 
 ### 📬 Contact Me
 <p align="center">
-  <a href="mailto:saifhany@example.com">
+  <a href="mailto:saifh4747@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="www.linkedin.com/in/saif-hany-azazy">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+  <a href="https://www.kaggle.com/saifhany259">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
 </p>
