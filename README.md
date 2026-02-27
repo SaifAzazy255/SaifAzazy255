@@ -1,6 +1,8 @@
 
 <<h2 align="center">Hi, I'm Saif Hany 👋</h2>
 
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6Znd4ZzRram9ueGZpZzRreXp3eHh4ZzRram9ueGZpZzRreXp3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 <h3 align="center">
 AI & Machine Learning Engineer | Deep Learning & Computer Vision | GenAI Specialist
 </h3>
@@ -9,7 +11,6 @@ AI & Machine Learning Engineer | Deep Learning & Computer Vision | GenAI Special
 Building the Future with Intelligent Solutions • Turning Complex Data into Actionable Insights🌟
 </p>
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6Znd4ZzRram9ueGZpZzRreXp3eHh4ZzRram9ueGZpZzRreXp3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 📬 Contact Me
 <p align="center">
