@@ -7,7 +7,7 @@ AI & Machine Learning Engineer | Deep Learning & Computer Vision | GenAI Special
 </h3>
 
 <p align="center">
-Turning Data into Insights • Building Intelligent Solutions • Kaggle Bronze Medalist 🥉
+Building the Future with Intelligent Solutions • Turning Complex Data into Actionable Insights
 </p>
 
 ### 📬 Contact Me
