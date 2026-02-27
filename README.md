@@ -14,7 +14,7 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
 ### 📬 Contact Me
 <p align="center">
   <a href="mailto:saifh4747@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://www.linkedin.com/in/saif-hany-azazy" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
