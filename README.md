@@ -29,12 +29,11 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
 
 ---
 
-### 👩‍💻 About Me
-- [cite_start]🎯 **Data Scientist** focused on Machine Learning & Generative AI[cite: 4, 5].
-- 🥉 **Kaggle Bronze Medalist** in Heart Disease Prediction (89% Accuracy).
-- [cite_start]🧠 Specialized in **LLM Applications, Prompt Engineering, and RAG**[cite: 8].
-- [cite_start]🚀 Certified by **Information Technology Institute (ITI)** in collaboration with **NVIDIA**[cite: 2, 5].
-
+### 👨🏻‍💻 About Me
+- 🔻 I'm **Saif Hany**, an **AI & Machine Learning Engineer** driven by a passion for solving real-world problems through data and intelligent systems.
+- 🔻 My expertise spans from **Classical Machine Learning** to advanced **Computer Vision** and **Deep Learning** architectures.
+- 🔻 Currently, I'm deep-diving into **Generative AI**, exploring how **LLMs** and **RAG** can transform user experiences.
+- 🔻 I believe in writing **clean, efficient code** and constantly bridging the gap between complex research and practical, scalable AI solutions.
 ---
 
 ### 🛠 Tech Stack
