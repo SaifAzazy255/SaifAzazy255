@@ -37,15 +37,37 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
 ---
 
 ### 🛠 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" title="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" title="PyTorch"/>
-  <img src="https://img.icons8.com/color/48/000000/nvidia.png" height="35" title="NVIDIA AI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/>
+
+#### 🔻 Programming Languages & Foundations
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" height="40" title="SQL"/>
+</p>
+
+#### 🔻 Machine Learning & Deep Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" title="Keras"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" height="40" title="Scikit-Learn"/>
+</p>
+
+#### 🔻 Computer Vision & Generative AI
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>
+  <img src="https://img.icons8.com/color/48/000000/nvidia.png" height="40" title="NVIDIA AI"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-huggingface-the-main-hub-where-open-source-community-builds-code-logo-color-tal-revivo.png" title="Hugging Face"/>
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" height="40" title="GenAI / LLMs"/>
+</p>
+
+#### 🔻 Tools & Environments
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
 </p>
 
 ---
