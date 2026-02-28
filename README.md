@@ -22,7 +22,7 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+  <a href="https://www.kaggle.com/saifhany259" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
 </p>
