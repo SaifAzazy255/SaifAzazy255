@@ -53,20 +53,22 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" title="Keras"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" height="40" title="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 #### 🔻 Computer Vision & Generative AI
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>
-  <img src="https://img.icons8.com/color/48/000000/nvidia.png" height="40" title="NVIDIA AI"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-huggingface-the-main-hub-where-open-source-community-builds-code-logo-color-tal-revivo.png" title="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" height="40" title="GenAI / LLMs"/>
 </p>
 
 #### 🔻 Tools & Environments
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
@@ -74,24 +76,44 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
 
 ---
 
-### 💼 Recent Projects
-**Predicting Heart Disease — Kaggle Competition** - Developed a predictive model using **Gradient Boosting**.
-- Achieved **89% accuracy** on clinical medical data.
-- Awarded **Bronze Medal** for code quality and insights.
+### 💼 Professional Experience & Training
 
-[cite_start]**GenAI & LLM Applications — ITI x NVIDIA** [cite: 5]
-- [cite_start]Built applications using **Prompt Engineering**[cite: 8].
-- [cite_start]Implemented **RAG (Retrieval-Augmented Generation)** to enhance model knowledge[cite: 8].
-- [cite_start]35 hours of intensive technical training[cite: 6].
+#### 🏆 AI Hackathon (4th Place) | Orange Digital Center Egypt
+*Feb 2026*
+- **Brain Tumor Segmentation:** Built an end-to-end Deep Learning pipeline using **MRI scans**.
+- **Tech Stack:** Developed models using **U-Net architectures** in **TensorFlow/Keras**.
+- **Evaluation:** Optimized performance using **Dice** and **IoU** metrics for high-precision medical segmentation.
+
+#### 🤖 NVIDIA DLI Training × ITI | Generative AI Specialist
+*Feb 2026*
+- **LLMs & Transformers:** Deep understanding of transformer architectures and fine-tuning strategies.
+- **Advanced Frameworks:** Developed sophisticated AI workflows using **LangChain** and integrated external data sources.
+- **AI Agents:** Designed autonomous agents capable of task reasoning and complex problem-solving.
+- **GenAI Lifecycle:** Mastered the full lifecycle from **Prompt Engineering** to system integration.
+
+#### 🎓 AI Engineer Training | Huawei ICT Academy
+*Jul 2025*
+- **HCIA-AI V4.0:** Completed intensive certification covering AI, Machine Learning, and Deep Learning fundamentals.
+- **Practical Application:** Gained hands-on experience with Huawei’s industry-level AI tools and workflows.
+
+#### 🛰️ Summer Intern | National Telecommunication Institute (NTI)
+*Jun 2025*
+- **Industry Exposure:** Worked on practical labs involving data preprocessing, model building, and evaluation under the guidance of Huawei experts.
+
+#### 📈 Machine Learning Trainee | IEEE Helwan Student Branch
+*Jan 2025*
+- **Predictive Modeling:** Applied supervised and unsupervised learning on real datasets.
+- **Feature Engineering:** Mastered data preprocessing and visualization using **Matplotlib** and **Seaborn** to improve model accuracy.
 
 ---
+### 📜 Certifications & Achievements
 
-### 📜 Certifications
-- [cite_start]**NVIDIA DLI: Generative AI (Beginner Level)** — ITI[cite: 5].
-- [cite_start]**Python Fundamentals** — Information Technology Institute[cite: 8].
-- [cite_start]**AI For All: From Basics To GenAI Practice** — ITI[cite: 8].
-
----
+- 🔻 **NVIDIA Deep Learning Institute (DLI)** – Generative AI and Large Language Models (LLMs) [In collaboration with ITI].
+- 🔻 **Huawei ICT Academy** – HCIA-AI V4.0 (Artificial Intelligence, Machine Learning, and Deep Learning Fundamentals).
+- 🔻 **Orange Digital Center** – 4th Place Certificate in Brain Tumor Segmentation Hackathon.
+- 🔻 **National Telecommunication Institute (NTI)** – Intensive AI Training Program Certificate (Huawei Experts Track).
+- 🔻 **IEEE Helwan Student Branch** – Machine Learning Trainee Certificate.
+- 🔻 **Information Technology Institute (ITI)** – Specialized Training in Generative AI Applications and LangChain.
 
 <p align="center">
 ✨ Data-driven by nature & AI-powered by choice ✨
