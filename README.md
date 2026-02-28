@@ -78,6 +78,14 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
 
 ### 💼 Professional Experience & Training
 
+🏆 **HCC AI Track (2nd Place) | Helwan Career Center**
+
+*Feb 2026*
+* **Solo Achievement:** Competed as a solo participant under the name **NeuraMind**, outperforming teams in a high-stakes competition.
+* **Traffic Detection & Recognition:** Built an end-to-end Computer Vision system for real-time traffic monitoring system.
+* **Tech Stack:** Leveraged **YOLOv8s** for the backbone, optimized with **PyTorch**, and deployed via **Streamlit**.
+* **Metrics:** Achieved a **mAP@50 of ~90%** and **86% Precision**, balancing accuracy with real-time inference speed.
+
 #### 🏆 AI Hackathon (4th Place) | Orange Digital Center Egypt
 *Feb 2026*
 - **Brain Tumor Segmentation:** Built an end-to-end Deep Learning pipeline using **MRI scans**.
