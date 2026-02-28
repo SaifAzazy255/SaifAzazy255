@@ -114,7 +114,7 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
 - 🔻 **National Telecommunication Institute (NTI)** – Intensive AI Training Program Certificate (Huawei Experts Track).
 - 🔻 **IEEE Helwan Student Branch** – Machine Learning Trainee Certificate.
 - 🔻 **Information Technology Institute (ITI)** – Specialized Training in Generative AI Applications and LangChain.
-
+---
 <p align="center">
 ✨ Data-driven by nature & AI-powered by choice ✨
 </p>
