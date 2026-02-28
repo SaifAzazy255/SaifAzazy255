@@ -1,4 +1,3 @@
-
 <<h2 align="center">Hi, I'm Saif Hany 👋</h2>
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6Znd4ZzRram9ueGZpZzRreXp3eHh4ZzRram9ueGZpZzRreXp3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -13,7 +12,7 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
 
 ### 📬 Contact Me
 <p align="center">
-  <a href="mailto:saifh4747@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=saifh4747@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/saif-hany-azazy" target="_blank">
