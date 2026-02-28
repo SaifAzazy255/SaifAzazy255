@@ -43,7 +43,9 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
+  <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" height="40" title="SQL"/>
+
 </p>
 
 #### 🔻 Machine Learning & Deep Learning
