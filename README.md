@@ -115,6 +115,13 @@ Building the Future with Intelligent Solutions • Turning Complex Data into Act
 - 🔻 **IEEE Helwan Student Branch** – Machine Learning Trainee Certificate.
 - 🔻 **Information Technology Institute (ITI)** – Specialized Training in Generative AI Applications and LangChain.
 ---
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSaifAzazy255&label=PROFILE%20VIEWS&labelColor=%23000000&countColor=%23e96443&style=for-the-badge" />
+</p>
+
+---
 <p align="center">
 ✨ Data-driven by nature & AI-powered by choice ✨
 </p>
